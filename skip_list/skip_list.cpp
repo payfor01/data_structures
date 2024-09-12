@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-    pair<int, int> p(5, 5);
+    cout << "hello world" << "\n";
 }
